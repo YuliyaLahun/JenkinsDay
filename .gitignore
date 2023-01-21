@@ -1,0 +1,9 @@
+/.idea/
+out/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+/target
+src/test/resources/db.properties
+*.log
